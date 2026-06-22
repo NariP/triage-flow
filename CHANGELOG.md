@@ -4,6 +4,11 @@
 형식은 [Keep a Changelog](https://keepachangelog.com/ko/1.1.0/)를 따르며,
 [유의적 버전](https://semver.org/lang/ko/)을 사용합니다.
 
+## [0.7.1] - 2026-06-22
+
+### Fixed
+- "수정해줘/고쳐줘" 같은 직접 명령이 입력에 섞여 있을 때 이슈 생성·승인 절차를 건너뛰던 문제 방지 — work/triage-fix/task-run 가드에 "직접 명령 ≠ 절차 생략" 명시 (claude+codex)
+
 ## [0.7.0] - 2026-06-19
 
 ### Added
